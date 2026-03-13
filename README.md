@@ -404,6 +404,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ using React Native, Expo, and TypeScript**
 
-> Last updated: March 2026
+> Last updated: March 2026 · v1.0.1
 
 For questions, issues, or feature requests, please open an issue on the repository.
